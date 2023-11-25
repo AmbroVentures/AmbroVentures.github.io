@@ -1,0 +1,12 @@
+- name: Highlight! Speed Reader
+  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  link: https://chat.openai.com/g/g-Ctc8vu1C5
+  description: Drop a text or file and I'll highlight the key parts for you.
+- name: Summarize! Speed Reader
+  link: https://chat.openai.com/g/g-xmCLFGYtD
+  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  description: Drop a text or file and I'll summarize the key parts for you.
+- name: TL;DR
+  link: https://chat.openai.com/g/g-YQSq7eOpg
+  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  description: Drop the essay and I'll get you an abstract.
