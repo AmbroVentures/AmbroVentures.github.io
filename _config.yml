@@ -15,7 +15,7 @@ site-image:
 # Keywords of the Site
 site-keywords: 
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/logo.png
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://tse1.mm.bing.net/th/id/OIG.bsVxr3_2Gk2WslQWbFTB?w=1024&h=1024&rs=1&pid=ImgDetMain
