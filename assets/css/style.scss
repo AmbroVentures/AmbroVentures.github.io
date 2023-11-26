@@ -115,6 +115,8 @@ a.navbar-item.is-active {
         &:hover {
             transform: scale(1.10);
             filter: opacity(0.75);
+            background-color: #ffb06e!important;
+            color: #02203c !important;
         }
     }
 
