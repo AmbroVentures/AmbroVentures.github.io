@@ -194,6 +194,15 @@ a.navbar-item.is-active {
     color: #02294a;
 }
 
+.is-link {
+    background-color: #0fc3dc;
+    color: #fff4e6;
+}
+
+.has-text-link {
+    color: #0fc3dc !important;
+}
+
 #search {
     border-bottom: 0.15rem solid;
 
@@ -341,6 +350,7 @@ a.navbar-item.is-active {
     }
     .subtitle {
         letter-spacing: 0.05rem;
+        color: #02203c
     }
 
     #description {
