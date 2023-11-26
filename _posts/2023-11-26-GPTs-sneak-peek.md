@@ -14,35 +14,37 @@ Have a look at [our GPTs](https://ambro.ventures/gpts) and gain early-access pri
 # GPTs
 Welcome to the fascinating realm of Generative Pre-trained Transformers, more commonly known as GPTs. These advanced artificial intelligence models, developed by OpenAI, have revolutionized the way we interact with technology, offering remarkable capabilities in natural language processing. As we stand on the brink of yet another exciting development, the imminent launch of the GPT Store promises to be a game-changer. This store will be a hub where innovators and creators, like ourself, can showcase and offer their unique GPT-based applications to the world. In this blog, we're thrilled to give you a sneak peek into the GPTs we've developed, well before they make their grand debut in the GPT store. Stay tuned for a journey into the future of AI-driven applications!
 
-Our first batch of GPTs span a variety of categories from increasing your productivity to just having some fun.
+Our initial lineup of GPTs spans a diverse range of categories, from enhancing productivity to simply providing some fun and entertainment.
+
+##### Table of Content
+1. [Productivity](#Productivity)
+1. [Art](#Art)
+1. [Entertainment](#Entertainment)
+1. [Faith](#Faith)
+1. [Consulting](#Consulting)
+
+<a name=Productivity></a>
 
 ## Productivity
 Empowering Efficiency: Revolutionizing How You Process Information.
 
 ### Speed Reader
-<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-highlight.png" width="256" height="256" />
-<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-summarize.png" width="256" height="256" />
+[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-highlight.png" width="256" height="256" />](https://chat.openai.com/g/g-Ctc8vu1C5)
+[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-summarize.png" width="256" height="256" />](https://chat.openai.com/g/g-xmCLFGYtD)
+[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tldr.png" width="256" height="256" />](https://chat.openai.com/g/g-YQSq7eOpg)
 
 The Speed Reader family is a set of GPTs that will help you digest large amount of text faster. They are perfect for dealing with large articles or even entire documents.
 
 * [Highlight!](https://chat.openai.com/g/g-Ctc8vu1C5) will return the text as is, but **higlight** key term along the away to allow you to cross read a document faster while not loosing any context.
-* [Summarize!](https://chat.openai.com/g/g-xmCLFGYtD) will boil the article or document down to the most relevant information.
-
-If that's not enough, check out the next one in our list...
-
-### TL;DR
-_Too Long; Didn't Read_
-
-<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tldr.png" width="256" height="256" />
-
-[Check it out now!](https://chat.openai.com/g/g-YQSq7eOpg)
-
-Similar to the Speed Reader GPTs, this one will also save you a huge amount of time by radically reducing an article to a mere few sentences.
+* [Summarize!](https://chat.openai.com/g/g-xmCLFGYtD) will boil the article or document down to the most relevant information. If that's not enough, check out the next one in our list...
+* [TL;DR](https://chat.openai.com/g/g-YQSq7eOpg) _Too Long; Didn't Read_ will radically reducing an article to a mere few sentences.
 
 <details>
-  <summary>E.g. just look what it did with this blog post!</summary>
+  <summary>Just look what it did with this blog post!</summary>
     TBC
 </details>
+
+<a name=Art></a>
 
 ## Art
 Unleash Creativity: Where Art Meets AI Innovation.
@@ -74,7 +76,9 @@ In a similar category we have [RPG Graphics Maker](https://chat.openai.com/g/g-1
 
 We are also working on an [RPG Sprite Maker](https://chat.openai.com/g/g-n9NCkn7Vr), but it seems that DALLE is strugling to generate sprite sheets. However, we haven't given up hope yet. We will keep working on it and let you know once it reaches a satisfying level.
 
-## Fun
+<a name=Entertainment></a>
+
+## Entertainment
 Adventure Awaits: Dive into AI-Driven Worlds of Excitement and Exploration.
 
 ### Hello Adventurer!
@@ -89,6 +93,8 @@ Interactive Fiction (IF) or text-based adventure, a genre that flourished in the
 But what truly sets "Hello Adventurer!" apart is its ability to visually enrich the experience. Regularly generated drawings bring the current scenario to life, providing a visual feast that complements the text-based adventure. These illustrations not only enhance the immersion but also help players visualize the ever-evolving story, bridging the gap between imagination and visual storytelling.
 
 "Hello Adventurer!" is more than just a game; it's a groundbreaking fusion of AI and interactive fiction, opening a new chapter in the realm of storytelling and player engagement. Get ready to embark on a journey where your choices shape the narrative, and every turn holds a new surprise, visualized right before your eyes.
+
+<a name=Faith></a>
 
 ## Faith
 Spiritual Wisdom Meets AI: Nurturing Faith Through Technology.
@@ -106,6 +112,8 @@ Moreover, recognizing the sensitive nature of spiritual counseling, we have take
 
 [Pastor AI](https://chat.openai.com/g/g-cGrLhsrMs) represents a unique synthesis of technology and theology, offering a modern approach to spiritual exploration and biblical study. It stands as a testament to our dedication to respecting the sanctity of personal faith journeys while harnessing the power of AI to foster a deeper understanding of religious texts and teachings.
 
+<a name=Consulting></a>
+
 ## Consulting
 Expert AI Consulting: Tailored Tech Solutions for the Modern Startup.
 
@@ -118,6 +126,6 @@ While [Tech Startup Advisor](https://chat.openai.com/g/g-91ACMz00T) isn't a grou
 
 # What's more?
 
-As we wrap up this first blog post, it's clear that our journey is just beginning. What started as a foray into the world of GPTs has blossomed into a passionate pursuit of innovation and creativity. We're not just stopping at developing specialized GPTs; there's a whole world of possibilities we're eager to explore. Beyond these initial offerings, we're already dreaming up new ideas and technologies that push the boundaries of what's possible. This isn't just a business venture for us; it's a personal journey fueled by curiosity and a desire to create something meaningful. Stay tuned as we continue to evolve, grow, and share our adventures with you. Here's to the many exciting steps we'll take together in the ever-expanding universe of technology and creativity!
+As we wrap up this first blog post, it's clear that our journey is just beginning. What started as a foray into the world of GPTs has blossomed into a passionate pursuit of innovation and creativity. We're not just stopping at developing specialized GPTs; there's a whole world of possibilities we're eager to explore. Beyond these initial offerings, we're already dreaming up new ideas and technologies that push the boundaries of what's possible. For us, this is a personal journey fueled by curiosity and a desire to create something meaningful. Stay tuned as we continue to evolve, grow, and share our adventures with you. Here's to the many exciting steps we'll take together in the ever-expanding universe of technology and creativity!
 
-![bg-adv.png](https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/bg-adv.png)
+![bg-adv.png](https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/bg-adv.jpg)
