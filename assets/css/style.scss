@@ -19,16 +19,16 @@
 
 a.navbar-item:hover,
 .navbar-link:hover {
-    background-color: rgba($color: #fff, $alpha: 0.25) !important;
+    background-color: rgba($color: #0fe7f4, $alpha: 0.25) !important;
     color: white !important;
 }
 
 a.navbar-item.is-active {
-    background-color: rgba($color: #fff, $alpha: 0.25) !important;
+    background-color: rgba($color: #0fe7f4, $alpha: 0.25) !important;
     color: white !important;
 
     &:hover {
-        background-color: rgba($color: #fff, $alpha: 0.25) !important;
+        background-color: rgba($color: #0fe7f4, $alpha: 0.25) !important;
         color: grey;
     }
 }
@@ -43,7 +43,7 @@ a.navbar-item.is-active {
     background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
     background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
     background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000", endColorstr="#000000", GradientType=1);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#011633", endColorstr="#011633", GradientType=1);
 
     &::before {
         filter: blur(0.15rem);
@@ -74,7 +74,7 @@ a.navbar-item.is-active {
         margin: auto;
 
         img {
-            border: 0.25rem dotted black;
+            border: 0.25rem none black;
         }
     }
 
@@ -284,7 +284,7 @@ a.navbar-item.is-active {
     .card {
         transition: all 0.25s ease;
         &:hover {
-            background-color: rgba($color: #000000, $alpha: 0.90)!important;
+            background-color: rgba($color: #011633, $alpha: 0.90)!important;
         }
     }
 }
