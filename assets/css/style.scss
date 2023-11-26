@@ -11,6 +11,15 @@
     font-weight: 600;
 }
 
+.is-black {
+    background-color: #011633 !important;
+    color: #bcf3ed !important;
+}
+
+.has-background-black {
+    background-color: #011633 !important;
+}
+
 .navbar-dropdown {
     border: none;
     right: 0;
@@ -40,9 +49,9 @@ a.navbar-item.is-active {
 
 #hero {
     background: rgb(0, 0, 0);
-    background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
-    background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
-    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 0.75) 100%);
+    background: -moz-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, #02294a 100%);
+    background: -webkit-linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, #02294a 100%);
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, #02294a 100%);
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#011633", endColorstr="#011633", GradientType=1);
 
     &::before {
@@ -68,13 +77,21 @@ a.navbar-item.is-active {
     letter-spacing: 0.25rem;
 }
 
+.has-background-white-ter {
+    background-color: #fff4e6!important;
+}
+
+.has-text-black {
+    color: #011633!important;
+}
+
 #about {
     .image {
         max-width: 20vmax;
         margin: auto;
 
         img {
-            border: 0.25rem none black;
+            border: 0.25rem none #011633;
         }
     }
 
@@ -102,7 +119,7 @@ a.navbar-item.is-active {
     }
 
     hr {
-        background-color: black;
+        background-color: #011633;
     }
 }
 
@@ -225,7 +242,7 @@ a.navbar-item.is-active {
             }
 
             a {
-                color: #02294a;
+                color: #bcf3ed;
 
                 &:hover {
                     color: #fff4e6;
@@ -255,6 +272,10 @@ a.navbar-item.is-active {
             color: #fff4e6;
         }
     }
+}
+
+.has-background-grey-darker {
+    background-color: #02294a!important;
 }
 
 #gpts {
