@@ -32,6 +32,9 @@
                 </li>
                 {% endunless %}
                 {% endfor %}
+                <li>
+                    <a href="{{site.url}}{{site.baseurl}}/gpts">Our GPTs</a>
+                </li>
             </div>
 
             <!--Blog-post Section-->
@@ -42,6 +45,9 @@
                     <a href="{{post.url | absolute_url}}">{{post.title}}</a>
                 </li>
                 {% endfor %}
+                <li>
+                    <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
+                </li>
             </div>
         </div>
     </div>
