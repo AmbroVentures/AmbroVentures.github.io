@@ -12,7 +12,7 @@ Have a look at [our GPTs](https://ambro.ventures/gpts) and gain early-access pri
 ---
 
 # GPTs
-Welcome to the fascinating realm of Generative Pre-trained Transformers, more commonly known as GPTs. These advanced artificial intelligence models, developed by OpenAI, have revolutionized the way we interact with technology, offering remarkable capabilities in natural language processing. As we stand on the brink of yet another exciting development, the imminent launch of the GPT Store promises to be a game-changer. This store will be a hub where innovators and creators, like ourself, can showcase and offer their unique GPT-based applications to the world. In this blog, we're thrilled to give you a sneak peek into the GPTs we've developed, well before they make their grand debut in the GPT store. Stay tuned for a journey into the future of AI-driven applications!
+Welcome to the fascinating realm of Generative Pre-trained Transformers, more commonly known as GPTs. These advanced artificial intelligence models, developed by OpenAI, have revolutionized the way we interact with technology, offering remarkable capabilities in natural language processing. As we stand on the brink of yet another exciting development, the imminent launch of the GPT Store promises to be a game-changer. This store will be a hub where innovators and creators, like ourselves, can showcase and offer their unique GPT-based applications to the world. In this blog, we're thrilled to give you a sneak peek into the GPTs we've developed, well before they make their grand debut in the GPT store. Stay tuned for a journey into the future of AI-driven applications!
 
 Our initial lineup of GPTs spans a diverse range of categories, from enhancing productivity to simply providing some fun and entertainment.
 
@@ -35,7 +35,7 @@ Empowering Efficiency: Revolutionizing How You Process Information.
 
 The Speed Reader family is a set of GPTs that will help you digest large amount of text faster. They are perfect for dealing with large articles or even entire documents.
 
-* [Highlight!](https://chat.openai.com/g/g-Ctc8vu1C5) will return the text as is, but **higlight** key term along the away to allow you to cross read a document faster while not loosing any context.
+* [Highlight!](https://chat.openai.com/g/g-Ctc8vu1C5) will return the text as is, but **highlight** key term along the away to allow you to cross read a document faster while not losing any context.
 * [Summarize!](https://chat.openai.com/g/g-xmCLFGYtD) will boil the article or document down to the most relevant information. If that's not enough, check out the next one in our list...
 * [TL;DR](https://chat.openai.com/g/g-YQSq7eOpg) _Too Long; Didn't Read_ will radically reducing an article to a mere few sentences.
 
@@ -51,7 +51,7 @@ Unleash Creativity: Where Art Meets AI Innovation.
 
 ### Fakemon Maker
 [<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-maker.png" width="192" height="192" />](https://chat.openai.com/g/g-trQVw2Ole)
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-essentials.png" width="128" height="128" />](https://chat.openai.com/g/g-hifny9H5w)
+[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-essentials.png" width="192" height="192" />](https://chat.openai.com/g/g-hifny9H5w)
 
 Is this Art or Entertainment? We couldn't agree. Anyway, this is one of the most intricate of our GPTs. [Fakemon Maker](https://chat.openai.com/g/g-trQVw2Ole) allows to generate fictional monster inspired by the style of Pokémon, ready for use in fangames. 
 Not only does it generate breathtaking artwork, it also creates a name and lore for the Fakemon along with a detailed specification. 
@@ -60,8 +60,8 @@ It is even capable to ensure perfect compatibility with Pokémon if asked to.
 <details>
   <summary>But why don't you just see for yourself?</summary>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/hhxgiLBhoIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</details>
-
+</details>  
+  
 
 We have also made a derivative that can integrate with the [Essentials](https://essentialsdocs.fandom.com/wiki/Essentials_Docs_Wiki) Addon for the [RPG Maker XP](https://www.rpgmakerweb.com/products/rpg-maker-xp) game engine. [Fakemon Maker (Essentials)](https://chat.openai.com/g/g-hifny9H5w) is still a little bit rough around the edges but totally worth a try!
 
@@ -71,7 +71,7 @@ We have also made a derivative that can integrate with the [Essentials](https://
 
 In a similar category we have [RPG Graphics Maker](https://chat.openai.com/g/g-1BC1YggkV). It can generate detailed sceneries, characters and faces for your RPG. This is again catered to game developers using [RPG Maker](https://www.rpgmakerweb.com/) or other similar game engines.
 
-We are also working on an [RPG Sprite Maker](https://chat.openai.com/g/g-n9NCkn7Vr), but it seems that DALLE is strugling to generate sprite sheets. However, we haven't given up hope yet. We will keep working on it and let you know once it reaches a satisfying level.
+We are also working on an [RPG Sprite Maker](https://chat.openai.com/g/g-n9NCkn7Vr), but it seems that DALLE is struggling to generate sprite sheets. However, we haven't given up hope yet. We will keep working on it and let you know once it reaches a satisfying level.
 
 <a name=Entertainment></a>
 
