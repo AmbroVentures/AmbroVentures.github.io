@@ -238,8 +238,8 @@ a.navbar-item.is-active {
     #backtotop {
         transition: all 0.25s ease;
         width: 10rem;
-        padding: 0rem;
-        margin: auto auto 0rem auto;
+        padding: 0.25rem;
+        margin: auto auto 1rem auto;
 
         &:hover {
             transform: scale(1.05);
@@ -269,8 +269,6 @@ a.navbar-item.is-active {
             }
 
             figure {
-                border: 1.5px solid #fff4e6;
-                border-radius: 50rem;
                 justify-content: center;
                 margin: auto;
                 transition: all 0.25s ease;
