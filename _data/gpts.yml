@@ -18,7 +18,7 @@
 - name: Fakemon Maker
   link: https://chat.openai.com/g/g-trQVw2Ole
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-maker.png
-  description: Drop the essay and I'll get you an abstract.
+  description: Create fully fledged Fakemons for your fangame.
 - name: RPG Graphics Maker
   link: https://chat.openai.com/g/g-1BC1YggkV
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-rpg-graphics.png
@@ -37,7 +37,7 @@
   description: A Christian pastor and theologian aiding in biblical research and spiritual guidance.
 
 ## Consulting
-- name: Pastor AI
+- name: Tech Startup Advisor
   link: https://chat.openai.com/g/g-91ACMz00T
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tech-startup.png
   description: An IT consultant for startups, offering expert advice on technology and software solutions.
