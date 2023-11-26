@@ -2,12 +2,12 @@
 
 ## Productivity
 - name: Highlight! Speed Reader
-  image: https://cdn.pixabay.com/photo/2015/01/08/18/27/startup-593341_960_720.jpg
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-highlight.png
   link: https://chat.openai.com/g/g-Ctc8vu1C5
   description: Drop a text or file and I'll highlight the key parts for you.
 - name: Summarize! Speed Reader
   link: https://chat.openai.com/g/g-xmCLFGYtD
-  image: https://cdn.pixabay.com/photo/2015/01/09/11/08/startup-594090_960_720.jpg
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-summarize.png
   description: Drop a text or file and I'll summarize the key parts for you.
 - name: TL;DR
   link: https://chat.openai.com/g/g-YQSq7eOpg
@@ -17,5 +17,27 @@
 ## Art
 - name: Fakemon Maker
   link: https://chat.openai.com/g/g-trQVw2Ole
-  image: https://cdn.pixabay.com/photo/2016/06/25/12/55/art-1478831_960_720.jpg
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-maker.png
   description: Drop the essay and I'll get you an abstract.
+- name: RPG Graphics Maker
+  link: https://chat.openai.com/g/g-1BC1YggkV
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-rpg-graphics.png
+  description: "Generate graphics for your RPG: Faces, Sprites, Battlers."
+
+## Fun
+- name: Hello Adventurer! Interactive Fiction
+  link: https://chat.openai.com/g/g-BHHaFw0ao
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-hello-adventurer.png
+  description: Embark on an immersive Text-Based Adventure full of mysteries and wonders.
+
+## Faith
+- name: Pastor AI
+  link: https://chat.openai.com/g/g-cGrLhsrMs
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-pastor-ai.png
+  description: A Christian pastor and theologian aiding in biblical research and spiritual guidance.
+
+## Consulting
+- name: Pastor AI
+  link: https://chat.openai.com/g/g-91ACMz00T
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tech-startup.png
+  description: An IT consultant for startups, offering expert advice on technology and software solutions.
