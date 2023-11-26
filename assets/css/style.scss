@@ -106,6 +106,11 @@ a.navbar-item.is-active {
         margin: 0.5rem auto;
         display: flex;
         justify-content: center;
+
+        &:hover {
+            background-color: #ffb06e!important;
+            color: #02203c !important;
+        }
     }
 
     svg {
@@ -115,8 +120,6 @@ a.navbar-item.is-active {
         &:hover {
             transform: scale(1.10);
             filter: opacity(0.75);
-            background-color: #ffb06e!important;
-            color: #02203c !important;
         }
     }
 
@@ -235,8 +238,8 @@ a.navbar-item.is-active {
     #backtotop {
         transition: all 0.25s ease;
         width: 10rem;
-        padding: 0.25rem;
-        margin: auto auto 1rem auto;
+        padding: 0rem;
+        margin: auto auto 0rem auto;
 
         &:hover {
             transform: scale(1.05);
