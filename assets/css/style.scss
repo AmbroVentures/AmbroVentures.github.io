@@ -170,6 +170,7 @@ a.navbar-item.is-active {
 
         .title {
             margin: 0.5rem !important;
+            color: #02203c;
         }
 
         .content {
@@ -189,6 +190,10 @@ a.navbar-item.is-active {
     }
 }
 
+.has-text-grey {
+    color: #02294a;
+}
+
 #search {
     border-bottom: 0.15rem solid;
 
@@ -199,7 +204,7 @@ a.navbar-item.is-active {
 
         &::placeholder {
             font-weight: 500;
-            color: #02294a;
+            color: #7a7a7a;
             letter-spacing: 0.25rem;
         }
     }
@@ -276,6 +281,14 @@ a.navbar-item.is-active {
 
 .has-background-grey-darker {
     background-color: #02294a!important;
+}
+
+.has-text-grey-lighter {
+    color: #f8e6ce!important;
+}
+
+.has-text-white {
+    color: #fff4e6!important;
 }
 
 #gpts {

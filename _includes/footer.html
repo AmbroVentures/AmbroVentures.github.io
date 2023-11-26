@@ -15,11 +15,8 @@
                                 <img class="is-rounded" src="{{site.author-image}}">
                             </figure>
                         </div>
-                        <div class="column is-marginless">
-                            <h5 class="has-text-grey-lighter">{{site.author-name}}</h5>
-                            <div class="content has-text-grey">
-                                <p>{{site.author-about | truncate: 75 }}</p>
-                            </div>
+                        <div class="column has-text-grey-lighter">
+                            <h5>{{site.author-name}}</h5>
                         </div>
                     </div>
                 </a>
@@ -35,9 +32,6 @@
                 </li>
                 {% endunless %}
                 {% endfor %}
-                <li>
-                    <a target="_blank" href="{{site.url}}{{site.baseurl}}/feed.xml">Subscribe via RSS</a>
-                </li>
             </div>
 
             <!--Blog-post Section-->
