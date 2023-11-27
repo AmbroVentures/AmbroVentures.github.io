@@ -35,7 +35,7 @@ Empowering Efficiency: Revolutionizing How You Process Information.
 
 The Speed Reader family is a set of GPTs that will help you digest large amount of text faster. They are perfect for dealing with large articles or even entire documents.
 
-* [Highlight!](https://chat.openai.com/g/g-Ctc8vu1C5) will return the text as is, but **highlight** key term along the away to allow you to cross read a document faster while not losing any context.
+* [Highlight!](https://chat.openai.com/g/g-Ctc8vu1C5) will return the text as is, but **highlight** key terms along the away to allow you to cross read a document faster while not losing any context.
 * [Summarize!](https://chat.openai.com/g/g-xmCLFGYtD) will boil the article or document down to the most relevant information. If that's not enough, check out the next one in our list...
 * [TL;DR](https://chat.openai.com/g/g-YQSq7eOpg) _Too Long; Didn't Read_ will radically reducing an article to a mere few sentences.
 
