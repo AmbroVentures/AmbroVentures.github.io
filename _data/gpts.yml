@@ -13,6 +13,10 @@
   link: https://chat.openai.com/g/g-YQSq7eOpg
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tldr.png
   description: Drop the essay and I'll get you an abstract.
+- name: Gimble the Giftsmith
+  link: https://chat.openai.com/g/g-0BUK6NMui
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-giftsmith.png
+  description: A gnome's touch in finding the perfect gift and penning heartfelt words.
 
 ## Art
 - name: Fakemon Maker
