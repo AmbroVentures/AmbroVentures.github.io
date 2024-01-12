@@ -1,7 +1,7 @@
 ---
 title: GPTs Go-live Lineup
 layout: post
-post-image: "https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpts-golive-lineup.jpg"
+post-image: "/assets/images/gpts-golive-lineup.jpg"
 description: "Celebrating the Launch of the GPT Store: Our Go-Live Lineup" 
 tags:
 - AI
@@ -36,8 +36,9 @@ As we celebrate this milestone, we're excited to unveil our latest GPTs. Each on
 
 ### Faith
 #### My Way with Jesus
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-way-with-jesus.png" width="144" height="144" />](https://chat.openai.com/g/g-BIbQCUVeV)
 Embark on an interactive adventure about your journey with Jesus, literally! Explore your faith in a new and engaging way.
+
+[<img src="/assets/images/gpt-way-with-jesus.png" width="144" height="144" />](https://chat.openai.com/g/g-BIbQCUVeV)
 
 [My Way with Jesus](https://chat.openai.com/g/g-BIbQCUVeV) represents an innovative fusion of [Pastor AI](https://chat.openai.com/g/g-cGrLhsrMs) and [Hello Adventurer!](https://chat.openai.com/g/g-BHHaFw0ao). Building on the groundbreaking interactive storytelling seen in [Hello Adventurer!](https://chat.openai.com/g/g-BHHaFw0ao), this GPT takes you on an immersive journey through Biblically-inspired stories. It's not just about experiencing these stories; it's about personal growth and enlightenment. The narratives are designed to deepen your spiritual understanding, impart life lessons, and offer profound wisdom, all within an accessible and captivating framework. "My Way with Jesus" is more than a storytelling platform; it's a tool for spiritual exploration and education, presented in a format that's both engaging and thought-provoking.
 
@@ -47,28 +48,32 @@ In addition, both [My Way with Jesus](https://chat.openai.com/g/g-BIbQCUVeV) and
 
 ### Consulting
 #### Gimble the Giftsmith
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-giftsmith.png" width="144" height="144" />](https://chat.openai.com/g/g-0BUK6NMui)
 Let a gnome's touch guide you in finding the perfect gift and penning heartfelt words.
+
+[<img src="/assets/images/gpt-giftsmith.png" width="144" height="144" />](https://chat.openai.com/g/g-0BUK6NMui)
 
 We apologize for the delayed release of this GPT, but as many discovered during the Christmas season, it was worth the wait. For those who kept an eye on our page, [Gimble the Giftsmith](https://chat.openai.com/g/g-0BUK6NMui) might have become an invaluable companion just in time for the festive rush.
 
 It's fascinating to see how [Gimble the Giftsmith](https://chat.openai.com/g/g-0BUK6NMui) intuitively guides you in selecting gifts that are not just fitting but deeply personal to your loved ones. And as an added bonus, it assists in crafting the perfect words to accompany your thoughtful gifts. Whether you're stumped for ideas or looking for that extra special touch, [Gimble the Giftsmith](https://chat.openai.com/g/g-0BUK6NMui) is here to make every occasion memorable.
 
 #### Genius IQ
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-genius-iq.png" width="144" height="144" />](https://chat.openai.com/g/g-9awF5kdUe)
 Tackle the toughest questions with advanced prompting methods like Chain-of-Thought.
+
+[<img src="/assets/images/gpt-genius-iq.png" width="144" height="144" />](https://chat.openai.com/g/g-9awF5kdUe)
 
 Struggling with a complex problem or a tricky question? [Genius IQ](https://chat.openai.com/g/g-9awF5kdUe) is your go-to AI companion for those brain-teasing moments. This GPT doesn't just provide answers; it also guides you through the thought process. It's designed to not only find solutions but also to help you understand the underlying concepts. Whether you're a student grappling with challenging academic topics or a professional facing intricate work-related queries, [Genius IQ](https://chat.openai.com/g/g-9awF5kdUe) is here to illuminate the path to clarity and comprehension.
 
 #### Re:Recruiter
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-re-recruiter.png" width="144" height="144" />](https://chat.openai.com/g/g-JnYxGxZwA)
 Receive tailored responses to recruiters, aligned with your personal situation & career goals.
+
+[<img src="/assets/images/gpt-re-recruiter.png" width="144" height="144" />](https://chat.openai.com/g/g-JnYxGxZwA)
 
 Navigating the job market can be a daunting and time-consuming task, especially when it comes to discerning which opportunities truly match your career aspirations. [Re:Recruiter](https://chat.openai.com/g/g-JnYxGxZwA) is designed to simplify this process. Once it learns about your preferences and career goals, it becomes a personal assistant in your job search. [Re:Recruiter](https://chat.openai.com/g/g-JnYxGxZwA) evaluates job descriptions against your criteria and generates appropriate responses or application letters. Whether you're passively browsing or actively applying, [Re:Recruiter](https://chat.openai.com/g/g-JnYxGxZwA) ensures that your engagements with potential employers are both strategic and aligned with your professional objectives, saving you valuable time and effort.
 
 #### Fake News or Truth
-[Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp)
 Evaluate articles for factual accuracy and discern the truth from misinformation.
+
+[Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp)
 
 In an era where misinformation can spread rapidly, the need for an independent and reliable fact-checking tool is more crucial than ever. OpenAI's recently [announced](https://openai.com/blog/axel-springer-partnership) partnership with various news outlets brings both opportunities and significant challenges, notably the risk of propagating misinformation under the guise of credible journalism. This environment underscores the importance of having a system to differentiate propaganda from truth to prevent manipulation and chaos.
 
@@ -80,8 +85,9 @@ _**Note:** For some inexplicable reasons, [Fake News or Truth](https://chat.open
 
 ### Customer Support
 #### Ambro
-[<img src="/assets/images/logo.png" width="144" height="144" />](https://chat.openai.com/g/g-wISnz2fYQ)
 Have any questions about us or our products? Just ask Ambro, your go-to guide for all inquiries.
+
+[<img src="/assets/images/logo.png" width="144" height="144" />](https://chat.openai.com/g/g-wISnz2fYQ)
 
 Feeling overwhelmed by our range of GPTs or curious to learn more about what we do? [Ambro](https://chat.openai.com/g/g-wISnz2fYQ) is here to help. Our diligent virtual assistant, available 24/7, is dedicated to providing you with the information you need. Whether you have questions about specific GPTs, need guidance on how to use our products, or simply want to know more about our journey, [Ambro](https://chat.openai.com/g/g-wISnz2fYQ) is your reliable source for quick and accurate responses. Experience our commitment to customer support with [Ambro](https://chat.openai.com/g/g-wISnz2fYQ) – always ready to assist you.
 
