@@ -1,7 +1,7 @@
 ---
 title: GPTs Sneak Peek
 layout: post
-post-image: "https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpts-beta-launch.jpg"
+post-image: "/assets/images/gpts-beta-launch.jpg"
 description: A sneak peek into our GPTs prior to the launch of the GPT store. 
 tags:
 - AI
@@ -29,9 +29,9 @@ Our initial lineup of GPTs spans a diverse range of categories, from enhancing p
 Empowering Efficiency: Revolutionizing How You Process Information.
 
 ### Speed Reader
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-highlight.png" width="144" height="144" />](https://chat.openai.com/g/g-Ctc8vu1C5)
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-summarize.png" width="144" height="144" />](https://chat.openai.com/g/g-xmCLFGYtD)
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tldr.png" width="144" height="144" />](https://chat.openai.com/g/g-YQSq7eOpg)
+[<img src="/assets/images/gpt-highlight.png" width="144" height="144" />](https://chat.openai.com/g/g-Ctc8vu1C5)
+[<img src="/assets/images/gpt-summarize.png" width="144" height="144" />](https://chat.openai.com/g/g-xmCLFGYtD)
+[<img src="/assets/images/gpt-tldr.png" width="144" height="144" />](https://chat.openai.com/g/g-YQSq7eOpg)
 
 The Speed Reader family is a set of GPTs that will help you digest large amount of text faster. They are perfect for dealing with large articles or even entire documents.
 
@@ -50,8 +50,8 @@ The Speed Reader family is a set of GPTs that will help you digest large amount 
 Unleash Creativity: Where Art Meets AI Innovation.
 
 ### Fakemon Maker
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-maker.png" width="144" height="144" />](https://chat.openai.com/g/g-trQVw2Ole)
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-essentials.png" width="144" height="144" />](https://chat.openai.com/g/g-hifny9H5w)
+[<img src="/assets/images/gpt-fakemon-maker.png" width="144" height="144" />](https://chat.openai.com/g/g-trQVw2Ole)
+[<img src="/assets/images/gpt-fakemon-essentials.png" width="144" height="144" />](https://chat.openai.com/g/g-hifny9H5w)
 
 Is this Art or Entertainment? We couldn't agree. Anyway, this is one of the most intricate of our GPTs. [Fakemon Maker](https://chat.openai.com/g/g-trQVw2Ole) allows to generate fictional monster inspired by the style of Pokémon, ready for use in fangames. 
 Not only does it generate breathtaking artwork, it also creates a name and lore for the Fakemon along with a detailed specification. 
@@ -62,8 +62,8 @@ It is even capable to ensure perfect compatibility with Pokémon if asked to.
 We have also made a derivative that can integrate with the [Essentials](https://essentialsdocs.fandom.com/wiki/Essentials_Docs_Wiki) Addon for the [RPG Maker XP](https://www.rpgmakerweb.com/products/rpg-maker-xp) game engine. [Fakemon Maker (Essentials)](https://chat.openai.com/g/g-hifny9H5w) is still a little bit rough around the edges but totally worth a try!
 
 ### RPG Graphics Maker
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-rpg-graphics.png" width="144" height="144" />](https://chat.openai.com/g/g-1BC1YggkV)
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-rpg-sprites.png" width="144" height="144" />](https://chat.openai.com/g/g-n9NCkn7Vr)
+[<img src="/assets/images/gpt-rpg-graphics.png" width="144" height="144" />](https://chat.openai.com/g/g-1BC1YggkV)
+[<img src="/assets/images/gpt-rpg-sprites.png" width="144" height="144" />](https://chat.openai.com/g/g-n9NCkn7Vr)
 
 In a similar category we have [RPG Graphics Maker](https://chat.openai.com/g/g-1BC1YggkV). It can generate detailed sceneries, characters and faces for your RPG. This is again catered to game developers using [RPG Maker](https://www.rpgmakerweb.com/) or other similar game engines.
 
@@ -75,7 +75,7 @@ We are also working on an [RPG Sprite Maker](https://chat.openai.com/g/g-n9NCkn7
 Adventure Awaits: Dive into AI-Driven Worlds of Excitement and Exploration.
 
 ### Hello Adventurer!
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-hello-adventurer.png" width="144" height="144" />](https://chat.openai.com/g/g-BHHaFw0ao)
+[<img src="/assets/images/gpt-hello-adventurer.png" width="144" height="144" />](https://chat.openai.com/g/g-BHHaFw0ao)
 
 Interactive Fiction (IF) or text-based adventure, a genre that flourished in the early eras of computer games, offered players a unique blend of storytelling and gameplay. Classics like "Zork" (1977) and "The Hitchhiker's Guide to the Galaxy" (1984) captivated imaginations by allowing players to explore vivid worlds through typed commands. Now, with [Hello Adventurer!](https://chat.openai.com/g/g-BHHaFw0ao), we're propelling this nostalgic experience into a new era, blending the charm of traditional IF with cutting-edge AI technology.
 
@@ -91,7 +91,7 @@ But what truly sets [Hello Adventurer!](https://chat.openai.com/g/g-BHHaFw0ao) a
 Spiritual Wisdom Meets AI: Nurturing Faith Through Technology.
 
 ### Pastor AI
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-pastor-ai.png" a="https://chat.openai.com/g/g-cGrLhsrMs" width="144" height="144" />](https://chat.openai.com/g/g-cGrLhsrMs)
+[<img src="/assets/images/gpt-pastor-ai.png" a="https://chat.openai.com/g/g-cGrLhsrMs" width="144" height="144" />](https://chat.openai.com/g/g-cGrLhsrMs)
 
 This GPT helps both church leaders and anyone interested in learning more about the Bible. It's like having a smart assistant for studying the Bible and getting ready for church meetings. At the same time, it's also there to offer friendly advice and support to anyone looking for spiritual guidance.
 
@@ -109,7 +109,7 @@ Moreover, recognizing the sensitive nature of spiritual counseling, we have take
 Expert AI Consulting: Tailored Tech Solutions for the Modern Startup.
 
 ### Tech Startup Advisor
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tech-startup.png" a="https://chat.openai.com/g/g-91ACMz00T" width="144" height="144" />](https://chat.openai.com/g/g-91ACMz00T)
+[<img src="/assets/images/gpt-tech-startup.png" a="https://chat.openai.com/g/g-91ACMz00T" width="144" height="144" />](https://chat.openai.com/g/g-91ACMz00T)
 
 In the dynamic world of tech startups, making informed decisions about technology and software is crucial. That's where this GPT comes in handy - an AI-powered IT consultant we initially developed for our own use. It's a straightforward tool, offering practical advice on technology solutions tailored for startups and help navigating the complexities of scaling up infrastructure.
 
@@ -119,4 +119,4 @@ While [Tech Startup Advisor](https://chat.openai.com/g/g-91ACMz00T) isn't a grou
 
 As we wrap up this first blog post, it's clear that our journey is just beginning. What started as a foray into the world of GPTs has blossomed into a passionate pursuit of innovation and creativity. We're not just stopping at developing specialized GPTs; there's a whole world of possibilities we're eager to explore. Beyond these initial offerings, we're already dreaming up new ideas and technologies that push the boundaries of what's possible. For us, this is a personal journey fueled by curiosity and a desire to create something meaningful. Stay tuned as we continue to evolve, grow, and share our adventures with you. Here's to the many exciting steps we'll take together in the ever-expanding universe of technology and creativity!
 
-![bg-adv.png](https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/bg-adv.jpg)
+![bg-adv.png](/assets/images/bg-adv.jpg)
