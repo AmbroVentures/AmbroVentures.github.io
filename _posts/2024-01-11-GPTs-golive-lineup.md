@@ -75,6 +75,7 @@ In an era where misinformation can spread rapidly, the need for an independent a
 With these considerations at the forefront, we've developed [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) - a fact-checker GPT. While the concept of an AI fact-checker might seem ironic, our preliminary tests have shown promising results, with the GPT providing plausible and reliable ratings. This tool is our contribution to the fight against misinformation, offering users a way to critically assess the news and information they encounter daily.
 
 _**Note:** For some inexplicable reasons, [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) occasionally becomes unavailable. We have reached out to support for a resolution, though it seems to be a global issue. We apologize for any inconvenience and are working diligently to ensure consistent access to this important tool._
+{: .box-note}
 
 <a name="customer-support"></a>
 
