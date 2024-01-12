@@ -19,9 +19,9 @@ The highly anticipated GPT Store, a pioneering initiative by OpenAI, is now live
 
 ##### Table of Contents
 1. [Our New GPTs at a Glance](#our-new-gpts-at-a-glance)
-- [Faith](#faith)
-- [Consulting](#consulting)
-- [Customer Support](#customer-support)
+1.1 [Faith](#faith)
+1.2 [Consulting](#consulting)
+1.3 [Customer Support](#customer-support)
 1. [In Case You Missed It](#in-case-you-missed-it)
 1. [Looking Ahead](#looking-ahead)
 1. [TL;DR](#tldr)
@@ -80,7 +80,7 @@ _**Note:** For some inexplicable reasons, [Fake News or Truth](https://chat.open
 
 ### Customer Support
 #### Ambro
-[<img src="https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/logo.png" width="144" height="144" />](https://chat.openai.com/g/g-wISnz2fYQ)
+[<img src="/assets/images/logo.png" width="144" height="144" />](https://chat.openai.com/g/g-wISnz2fYQ)
 Have any questions about us or our products? Just ask Ambro, your go-to guide for all inquiries.
 
 Feeling overwhelmed by our range of GPTs or curious to learn more about what we do? [Ambro](https://chat.openai.com/g/g-wISnz2fYQ) is here to help. Our diligent virtual assistant, available 24/7, is dedicated to providing you with the information you need. Whether you have questions about specific GPTs, need guidance on how to use our products, or simply want to know more about our journey, [Ambro](https://chat.openai.com/g/g-wISnz2fYQ) is your reliable source for quick and accurate responses. Experience our commitment to customer support with [Ambro](https://chat.openai.com/g/g-wISnz2fYQ) – always ready to assist you.
@@ -104,7 +104,5 @@ The launch of these GPTs marks just the beginning of our journey. We're committe
 Ambro Ventures celebrates the launch of the GPT Store, a platform showcasing a diverse range of GPT-based applications developed by OpenAI partners and the community. The lineup includes innovative GPTs like [My Way with Jesus](https://chat.openai.com/g/g-BIbQCUVeV) for interactive faith-based storytelling, [Gimble the Giftsmith](https://chat.openai.com/g/g-0BUK6NMui) for personalized gift-giving, [Genius IQ](https://chat.openai.com/g/g-9awF5kdUe) for problem-solving, [Re:Recruiter](https://chat.openai.com/g/g-JnYxGxZwA) for job search assistance, and [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) for fact-checking. This initiative represents a significant milestone in AI-driven solutions, offering varied and creative applications for personal and professional use.
 
 _This excerpt was provided by our GPT [TL;DR](https://chat.openai.com/g/g-YQSq7eOpg)._
-
-![Advancing with AI](https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/banner-golive.jpg)
 
 ![Advancing]({{ '/assets/images/banner-golive.jpg' | relative_url }})
