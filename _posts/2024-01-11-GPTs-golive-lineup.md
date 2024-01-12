@@ -15,10 +15,10 @@ Browse the lineup of [our GPTs](https://ambro.ventures/gpts) at the official lau
 
 ## Introducing the Newly Launched GPT Store
 
-The highly anticipated GPT Store, a pioneering initiative by OpenAI, is now live! This platform is a dedicated space where innovators and creators from around the globe can showcase their GPT-based applications. It's a hub of AI-driven solutions, offering a diverse range of GPTs developed by both OpenAI's partners and the broader community. Visit [chat.openai.com/gpts](https://chat.openai.com/gpts) to explore the variety of applications available.
+The highly anticipated [GPT Store](https://chat.openai.com/gpts), a pioneering initiative by OpenAI, is now live! This platform is a dedicated space where innovators and creators from around the globe can showcase their GPT-based applications. It's a hub of AI-driven solutions, offering a diverse range of GPTs developed by both OpenAI's partners and the broader community. We aswell have a few more creations that have taken shape, and we are excited to share them with you at this grand opening.
 
 ##### Table of Contents
-1. [Our New GPTs at a Glance](#our-new-gpts-at-a-glance): [Faith](#faith) / [Consulting](#consulting) / [Customer Support](#customer-support)
+1. [Our New GPTs at a Glance](#our-new-gpts-at-a-glance):  [Faith](#faith),  [Consulting](#consulting),  [Customer Support](#customer-support)
 1. [In Case You Missed It](#in-case-you-missed-it)
 1. [Looking Ahead](#looking-ahead)
 1. [TL;DR](#tldr)
@@ -80,7 +80,7 @@ With these considerations at the forefront, we've developed [Fake News or Truth]
 
 _**Note:** For some inexplicable reasons, [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) (legacy version) occasionally becomes unavailable. We have reached out to support for a resolution, though it seems to be a global issue. We apologize for any inconvenience and are working diligently to ensure consistent access to this important tool._
 
-_**Update:** Given the long downtime, we have now decided to recreate this gem of a GPT as [Fake News or Truth | Fact-checker](https://chat.openai.com/g/g-IqDDg33YP)._
+_**Update:** Given the long downtime, we have now decided to recreate this gem of a GPT as [Fake News or Truth \| Fact-checker](https://chat.openai.com/g/g-IqDDg33YP)._
 
 <a name="customer-support"></a>
 
