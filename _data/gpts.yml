@@ -100,9 +100,15 @@
   description: Replies to recruiters taking into account your personal situation & goals.
   mentions:
     - https://ambro.ventures/blog/Golive-Lineup
+#- name: Fake News or Truth
+#  link: https://chat.openai.com/g/g-UIONdmuIp
+#  image:
+#  description: Rates an article based on it's factual accuracy.
+#  mentions: Evaluate articles for factual accuracy and discern the truth from misinformation.
+#    - https://ambro.ventures/blog/Golive-Lineup
 - name: Fake News or Truth
-  link: https://chat.openai.com/g/g-UIONdmuIp
+  link: https://chat.openai.com/g/g-IqDDg33YP
   image:
-  description: Rates an article based on it's factual accuracy.
-  mentions:
+  description: Fact-checker. Rates an article based on it's factual accuracy.
+  mentions: Evaluate articles for factual accuracy and discern the truth from misinformation.
     - https://ambro.ventures/blog/Golive-Lineup
