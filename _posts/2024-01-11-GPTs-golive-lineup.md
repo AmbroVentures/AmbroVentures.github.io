@@ -1,5 +1,5 @@
 ---
-title: GPTs Go-live Lineup
+title: GPTs Go-Live Lineup
 layout: post
 post-image: "/assets/images/gpts-golive-lineup.jpg"
 description: "Celebrating the Launch of the GPT Store: Our Go-Live Lineup" 
@@ -18,7 +18,7 @@ Browse the lineup of [our GPTs](https://ambro.ventures/gpts) at the official lau
 The highly anticipated GPT Store, a pioneering initiative by OpenAI, is now live! This platform is a dedicated space where innovators and creators from around the globe can showcase their GPT-based applications. It's a hub of AI-driven solutions, offering a diverse range of GPTs developed by both OpenAI's partners and the broader community. Visit [chat.openai.com/gpts](https://chat.openai.com/gpts) to explore the variety of applications available.
 
 ##### Table of Contents
-1. [Our New GPTs at a Glance](#our-new-gpts-at-a-glance): [Faith](#faith) | [Consulting](#consulting) | [Customer Support](#customer-support)
+1. [Our New GPTs at a Glance](#our-new-gpts-at-a-glance): [Faith](#faith) / [Consulting](#consulting) / [Customer Support](#customer-support)
 1. [In Case You Missed It](#in-case-you-missed-it)
 1. [Looking Ahead](#looking-ahead)
 1. [TL;DR](#tldr)
@@ -60,7 +60,7 @@ Tackle the toughest questions with advanced prompting methods like Chain-of-Thou
 
 Struggling with a complex problem or a tricky question? [Genius IQ](https://chat.openai.com/g/g-9awF5kdUe) is your go-to AI companion for those brain-teasing moments. This GPT doesn't just provide answers; it also guides you through the thought process. It's designed to not only find solutions but also to help you understand the underlying concepts. Whether you're a student grappling with challenging academic topics or a professional facing intricate work-related queries, [Genius IQ](https://chat.openai.com/g/g-9awF5kdUe) is here to illuminate the path to clarity and comprehension.
 
-_PS. **Update on Genius IQ:** Upon further exploration and testing, we've noticed that Genius IQ isn't quite hitting the mark we aimed for. It's a work in progress, and while it has shown potential, there's still room for improvement. We're doubling down on development efforts to enhance its capabilities and ensure it lives up to expectations. Your patience and feedback during this refining process are invaluable. Stay tuned for updates!_
+_**PS:** Upon further exploration and testing, we've noticed that Genius IQ isn't quite hitting the mark we aimed for. It's a work in progress, and while it has shown potential, there's still room for improvement. We're doubling down on development efforts to enhance its capabilities and ensure it lives up to expectations. Your patience and feedback during this refining process are invaluable. Stay tuned for updates!_
 
 #### Re:Recruiter
 Receive tailored responses to recruiters, aligned with your personal situation & career goals.
@@ -71,14 +71,14 @@ Navigating the job market can be a daunting and time-consuming task, especially 
 
 #### Fake News or Truth
 Evaluate articles for factual accuracy and discern the truth from misinformation.
+
 [<img src="/assets/images/gpt-fake-news-or-truth.png" width="144" height="144" />](https://chat.openai.com/g/g-IqDDg33YP)
-[Legacy Version](https://chat.openai.com/g/g-UIONdmuIp)
 
 In an era where misinformation can spread rapidly, the need for an independent and reliable fact-checking tool is more crucial than ever. OpenAI's recently [announced](https://openai.com/blog/axel-springer-partnership) partnership with various news outlets brings both opportunities and significant challenges, notably the risk of propagating misinformation under the guise of credible journalism. This environment underscores the importance of having a system to differentiate propaganda from truth to prevent manipulation and chaos.
 
 With these considerations at the forefront, we've developed [Fake News or Truth](https://chat.openai.com/g/g-IqDDg33YP) - a fact-checker GPT. While the concept of an AI fact-checker might seem ironic, our preliminary tests have shown promising results, with the GPT providing plausible and reliable ratings. This tool is our contribution to the fight against misinformation, offering users a way to critically assess the news and information they encounter daily.
 
-_**Note:** For some inexplicable reasons, [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) occasionally becomes unavailable. We have reached out to support for a resolution, though it seems to be a global issue. We apologize for any inconvenience and are working diligently to ensure consistent access to this important tool._
+_**Note:** For some inexplicable reasons, [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) (legacy version) occasionally becomes unavailable. We have reached out to support for a resolution, though it seems to be a global issue. We apologize for any inconvenience and are working diligently to ensure consistent access to this important tool._
 
 _**Update:** Given the long downtime, we have now decided to recreate this gem of a GPT as [Fake News or Truth | Fact-checker](https://chat.openai.com/g/g-IqDDg33YP)._
 
