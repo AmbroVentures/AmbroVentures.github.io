@@ -2,12 +2,12 @@
 title: GPTs Go-live Lineup
 layout: post
 post-image: "https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpts-golive-lineup.jpg"
-description: "Celebrating the Launch of the GPT Store: Our Go-Live Lineup"
+description: "Celebrating the Launch of the GPT Store: Our Go-Live Lineup" 
 tags:
 - AI
 ---
 
-Browse the lineup of [our GPTs](https://ambro.ventures/gpts) at the official launch of the GPT store.
+Browse the lineup of [our GPTs](https://ambro.ventures/gpts) at the official launch of the GPT store. 
 
 ---
 
@@ -19,9 +19,9 @@ The highly anticipated GPT Store, a pioneering initiative by OpenAI, is now live
 
 ##### Table of Contents
 1. [Our New GPTs at a Glance](#our-new-gpts-at-a-glance)
-   1. [Faith](#faith)
-   1. [Consulting](#consulting)
-   1. [Customer Support](#customer-support)
+- [Faith](#faith)
+- [Consulting](#consulting)
+- [Customer Support](#customer-support)
 1. [In Case You Missed It](#in-case-you-missed-it)
 1. [Looking Ahead](#looking-ahead)
 1. [TL;DR](#tldr)
