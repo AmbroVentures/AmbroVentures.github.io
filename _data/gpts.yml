@@ -1,55 +1,108 @@
 # GPTs
 
+- name: Ambro
+  link: https://chat.openai.com/g/g-wISnz2fYQ
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/logo.png
+  description: Do you have any questions about us or our products? Just ask away.
+  mentions:
+    - https://ambro.ventures/blog/Golive-Lineup
+
 ## Productivity
 - name: Highlight! Speed Reader
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-highlight.png
   link: https://chat.openai.com/g/g-Ctc8vu1C5
   description: Drop a text or file and I'll highlight the key parts for you.
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
 - name: Summarize! Speed Reader
   link: https://chat.openai.com/g/g-xmCLFGYtD
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-summarize.png
   description: Drop a text or file and I'll summarize the key parts for you.
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
 - name: TL;DR
   link: https://chat.openai.com/g/g-YQSq7eOpg
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tldr.png
   description: Drop the essay and I'll get you an abstract.
-- name: Gimble the Giftsmith
-  link: https://chat.openai.com/g/g-0BUK6NMui
-  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-giftsmith.png
-  description: A gnome's touch in finding the perfect gift and penning heartfelt words.
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
 
 ## Art
 - name: Fakemon Maker
   link: https://chat.openai.com/g/g-trQVw2Ole
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-maker.png
   description: Create fully fledged Fakemons for your fangame.
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
 - name: Fakemon Maker (Essentials)
   link: https://chat.openai.com/g/g-hifny9H5w
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-fakemon-essentials.png
   description: Create fully fledged Fakemons for your fangame. 
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
 - name: RPG Graphics Maker
   link: https://chat.openai.com/g/g-1BC1YggkV
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-rpg-graphics.png
   description: "Generate graphics for your RPG: Faces, Sprites, Battlers."
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
+# - name: RPG Sprite Maker
+#   link: https://chat.openai.com/g/g-n9NCkn7Vr
+#   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-rpg-graphics.png
+#   description: "Generate sprite sheets for frame by frame animation of your RPG."
+#   mentions:
+#     - https://ambro.ventures/blog/GPTs-sneak-peek
 
-## Fun
+## Entertainment
 - name: Hello Adventurer!
   link: https://chat.openai.com/g/g-BHHaFw0ao
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-hello-adventurer.png
   description: Embark on an immersive Text-Based Adventure full of mysteries and wonders.
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
 
 ## Faith
 - name: My Way with Jesus
   link: https://chat.openai.com/g/g-BIbQCUVeV
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-way-with-jesus.png
   description: Interactive adventure about your journey with Jesus, literally!.
+  mentions:
+    - https://ambro.ventures/blog/Golive-Lineup
 - name: Pastor AI
   link: https://chat.openai.com/g/g-cGrLhsrMs
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-pastor-ai.png
   description: A Christian pastor and theologian aiding in biblical research and spiritual guidance.
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
 
 ## Consulting
 - name: Tech Startup Advisor
   link: https://chat.openai.com/g/g-91ACMz00T
   image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-tech-startup.png
   description: An IT consultant for startups, offering expert advice on technology and software solutions.
+  mentions:
+    - https://ambro.ventures/blog/GPTs-sneak-peek
+- name: Gimble the Giftsmith
+  link: https://chat.openai.com/g/g-0BUK6NMui
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-giftsmith.png
+  description: A gnome's touch in finding the perfect gift and penning heartfelt words.
+  mentions:
+    - https://ambro.ventures/blog/Golive-Lineup
+- name: Genius IQ
+  link: https://chat.openai.com/g/g-9awF5kdUe
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-genius-iq.png
+  description: Applying advanced prompting methods like Chain-of-Thought to help you crack the toughest questions.
+  mentions:
+    - https://ambro.ventures/blog/Golive-Lineup
+- name: Re:Recruiter
+  link: https://chat.openai.com/g/g-JnYxGxZwA
+  image: https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/gpt-re-recruiter.png
+  description: Replies to recruiters taking into account your personal situation & goals.
+  mentions:
+    - https://ambro.ventures/blog/Golive-Lineup
+- name: Fake News or Truth
+  link: https://chat.openai.com/g/g-UIONdmuIp
+  image:
+  description: Rates an article based on it's factual accuracy.
+  mentions:
+    - https://ambro.ventures/blog/Golive-Lineup
