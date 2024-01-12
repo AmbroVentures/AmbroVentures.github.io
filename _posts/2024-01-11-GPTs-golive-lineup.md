@@ -19,9 +19,9 @@ The highly anticipated GPT Store, a pioneering initiative by OpenAI, is now live
 
 ##### Table of Contents
 1. [Our New GPTs at a Glance](#our-new-gpts-at-a-glance)
-   - [Faith](#faith)
-   - [Consulting](#consulting)
-   - [Customer Support](#customer-support)
+   1. [Faith](#faith)
+   1. [Consulting](#consulting)
+   1. [Customer Support](#customer-support)
 1. [In Case You Missed It](#in-case-you-missed-it)
 1. [Looking Ahead](#looking-ahead)
 1. [TL;DR](#tldr)
@@ -75,7 +75,6 @@ In an era where misinformation can spread rapidly, the need for an independent a
 With these considerations at the forefront, we've developed [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) - a fact-checker GPT. While the concept of an AI fact-checker might seem ironic, our preliminary tests have shown promising results, with the GPT providing plausible and reliable ratings. This tool is our contribution to the fight against misinformation, offering users a way to critically assess the news and information they encounter daily.
 
 _**Note:** For some inexplicable reasons, [Fake News or Truth](https://chat.openai.com/g/g-UIONdmuIp) occasionally becomes unavailable. We have reached out to support for a resolution, though it seems to be a global issue. We apologize for any inconvenience and are working diligently to ensure consistent access to this important tool._
-{: .box-note}
 
 <a name="customer-support"></a>
 
@@ -107,3 +106,5 @@ Ambro Ventures celebrates the launch of the GPT Store, a platform showcasing a d
 _This excerpt was provided by our GPT [TL;DR](https://chat.openai.com/g/g-YQSq7eOpg)._
 
 ![Advancing with AI](https://raw.githubusercontent.com/AmbroVentures/AmbroVentures.github.io/main/assets/images/banner-golive.jpg)
+
+![Advancing]({{ '/assets/images/banner-golive.jpg' | relative_url }})
