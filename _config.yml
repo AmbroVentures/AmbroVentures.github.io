@@ -6,13 +6,6 @@ url: ''
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl: 
 
-# More Pages to link to
-html_pages:
-  - url: https://masagym.ch/
-    title: Masa Gym
-  - url: https://sporti.fit/
-    title: Sporti
-
 # Title of the Site
 title: Ambro Ventures
 # Description of the Site
